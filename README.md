@@ -1,4 +1,4 @@
-# Transformer from Scratch
+# LLM from Scratch
 
 This repository contains an implementation of a Transformer model from scratch, inspired by the GPT architecture. The model is trained on a text dataset and includes functionalities for tokenization, training, and text generation. 
 
